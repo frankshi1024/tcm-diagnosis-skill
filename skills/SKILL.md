@@ -19,15 +19,13 @@ Before doing anything, read the room.
 - Check for CLAUDE.md or project conventions
 - Identify: task type (bug fix? new feature? refactor? research?), domain, scope, impact radius
 
-**Output a structured observation report with fixed format:**
+**Output a structured observation report covering these dimensions:**
 
 > [Observe]
-> - Task type: bug fix / new feature / refactor / research / other
-> - Files involved: A, B, C
-> - Stack / project state: ...
-> - Key context: ...
-> - Known info: ...
-> - Missing info: ... (to be filled in later phases)
+> - Task type & scope: ...
+> - Files / modules involved: ...
+> - What I know from context: ...
+> - What's still unclear: ... (to be filled in later phases)
 
 Do this even if you know the project. It proves you've read the context, not just recalled it.
 
